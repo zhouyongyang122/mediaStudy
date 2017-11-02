@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/zhouyongyang/.android/build-cache/1b6d9b02e283c4d9d941d00f13f67c568aa9980e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="932078b2f30750bc5377ca4df58f3426c8cc875b">
+        <dex dex="/Users/zhouyongyang/Documents/work/feizhukeji/Android/MediaStudy/app/build/intermediates/pre-dexed/debug/classes_c887588186a3aa8e07cd05699892f5532cdd21ee.jar" />
+    </item>
+
+</items>
